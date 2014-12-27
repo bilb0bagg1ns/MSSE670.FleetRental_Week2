@@ -7,7 +7,6 @@ import java.util.ArrayList;
 /**
  * 
  * @author mike.prasad
- *
  */
 public class AvailableRentals implements Serializable
 {
